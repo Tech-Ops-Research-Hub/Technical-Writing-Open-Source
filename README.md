@@ -3,7 +3,7 @@
 Welcome to the **Technical Writing Contributions Hub** — a curated space where passionate technical writers showcase their impactful contributions to open-source projects. This repository serves as a portfolio for documenting, highlighting, and celebrating contributions that make technical documentation clearer, more accessible, and developer-friendly.
 
 ---
-
+   
 ## 🧭 Purpose
 
 The goal of this repository is to:
